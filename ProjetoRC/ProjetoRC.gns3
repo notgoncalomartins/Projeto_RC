@@ -16,7 +16,80 @@
     "supplier": null,
     "topology": {
         "computes": [],
-        "drawings": [],
+        "drawings": [
+            {
+                "drawing_id": "dc34c700-62cb-4dd6-9c3f-f8c662e4131c",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"229\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.6\n2002:8880:6922:11DD::2</text></svg>",
+                "x": 493,
+                "y": 397,
+                "z": 2
+            },
+            {
+                "drawing_id": "10deef78-a895-4c2a-b29a-c622a9e2aeaf",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"229\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.5\n2002:8880:6922:11DD::1</text></svg>",
+                "x": 193,
+                "y": 386,
+                "z": 2
+            },
+            {
+                "drawing_id": "a3893d80-859e-42a7-9b67-710b697a32b5",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"223\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.1\n2002:8880:6922:11EE::1</text></svg>",
+                "x": -153,
+                "y": 391,
+                "z": 2
+            },
+            {
+                "drawing_id": "d6482341-7188-46fb-94cc-dea296117285",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"107\" height=\"35\"><line x1=\"0\" x2=\"-107\" y1=\"0\" y2=\"35\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 129,
+                "y": 363,
+                "z": 1
+            },
+            {
+                "drawing_id": "df341d15-2ab1-4b34-b0df-1b680ab2143f",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"223\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.2\n2002:8880:6922:11EE::2</text></svg>",
+                "x": -480,
+                "y": 415,
+                "z": 2
+            },
+            {
+                "drawing_id": "f7e376c7-f002-4f95-9e56-38c15c3d895e",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"80\" height=\"31\"><line x1=\"0\" x2=\"80\" y1=\"0\" y2=\"31\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 187,
+                "y": 354,
+                "z": 1
+            },
+            {
+                "drawing_id": "82315426-a1d3-4b25-9570-aeb0183109be",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"52\" height=\"52\"><line x1=\"0\" x2=\"-52\" y1=\"0\" y2=\"52\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 591,
+                "y": 354,
+                "z": 1
+            },
+            {
+                "drawing_id": "4bcdf490-f197-4390-bf44-930dac75e2d4",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"72\" height=\"56\"><line x1=\"0\" x2=\"72\" y1=\"0\" y2=\"56\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -508,
+                "y": 361,
+                "z": 1
+            }
+        ],
         "links": [
             {
                 "filters": {},
@@ -29,8 +102,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f0/1",
-                            "x": 67,
-                            "y": -25
+                            "x": 28,
+                            "y": -43
                         },
                         "node_id": "43a614be-ed36-4a19-a94f-52eb9d5fb8a9",
                         "port_number": 1
@@ -137,8 +210,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f0/0",
-                            "x": 78,
-                            "y": 26
+                            "x": 70,
+                            "y": 20
                         },
                         "node_id": "43a614be-ed36-4a19-a94f-52eb9d5fb8a9",
                         "port_number": 0
@@ -992,8 +1065,8 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "NewNet",
-                    "x": -48,
-                    "y": 44
+                    "x": -6,
+                    "y": 33
                 },
                 "locked": false,
                 "name": "NewNet",
@@ -1061,8 +1134,8 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "Gr8",
-                    "x": 19,
-                    "y": 51
+                    "x": 72,
+                    "y": 22
                 },
                 "locked": false,
                 "name": "Gr8",
@@ -2471,13 +2544,13 @@
                 "properties": {
                     "interfaces": [
                         {
-                            "name": "Ethernet",
-                            "special": false,
+                            "name": "Wi-Fi",
+                            "special": true,
                             "type": "ethernet"
                         },
                         {
-                            "name": "Wi-Fi",
-                            "special": true,
+                            "name": "Ethernet",
+                            "special": false,
                             "type": "ethernet"
                         },
                         {
@@ -2508,8 +2581,8 @@
                 "symbol": ":/symbols/cloud.svg",
                 "template_id": "39e257dc-8412-3174-b6b3-0ee3ed6a43e9",
                 "width": 159,
-                "x": 76,
-                "y": 429,
+                "x": 68,
+                "y": 430,
                 "z": 1
             }
         ]
