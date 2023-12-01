@@ -1,0 +1,44 @@
+Dec 01 16:20:30.448 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Dec 01 16:20:30.449 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 61905.
+Dec 01 16:20:30.953 HYPERVISOR: exec_cmd: hypervisor version 
+Dec 01 16:20:30.954 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips 
+Dec 01 16:20:30.954 GENERAL: working_dir=C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips
+Dec 01 16:20:30.954 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips\5a3efe9f-2e2c-4d0c-b74a-5f5be5cb748d 
+Dec 01 16:20:30.955 GENERAL: working_dir=C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips\5a3efe9f-2e2c-4d0c-b74a-5f5be5cb748d
+Dec 01 16:20:30.956 HYPERVISOR: exec_cmd: vm create AmazL3SW2 4 c3725 
+Dec 01 16:20:30.957 VM: VM AmazL3SW2 created.
+Dec 01 16:20:30.958 HYPERVISOR: exec_cmd: vm set_con_tcp_port AmazL3SW2 5004 
+Dec 01 16:20:30.958 HYPERVISOR: exec_cmd: c3725 get_mac_addr AmazL3SW2 
+Dec 01 16:20:30.958 HYPERVISOR: exec_cmd: vm set_disk0 AmazL3SW2 1 
+Dec 01 16:20:30.959 HYPERVISOR: exec_cmd: vm set_exec_area AmazL3SW2 64 
+Dec 01 16:20:30.959 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:20:30.960 HYPERVISOR: exec_cmd: c3725 set_mac_addr AmazL3SW2 c204.58f8.0000 
+Dec 01 16:20:30.960 HYPERVISOR: exec_cmd: vm set_nvram AmazL3SW2 256 
+Dec 01 16:20:30.960 HYPERVISOR: exec_cmd: vm set_ram AmazL3SW2 256 
+Dec 01 16:20:30.961 HYPERVISOR: exec_cmd: vm get_status AmazL3SW2 
+Dec 01 16:20:30.961 HYPERVISOR: exec_cmd: vm slot_add_binding AmazL3SW2 1 0 NM-16ESW 
+Dec 01 16:20:32.108 HYPERVISOR: exec_cmd: nio create_udp udp-9ebe1142-cb3c-46d6-9105-32a9b00dc225 20004 127.0.0.1 20005 
+Dec 01 16:20:32.360 HYPERVISOR: exec_cmd: vm slot_add_nio_binding AmazL3SW2 0 0 udp-9ebe1142-cb3c-46d6-9105-32a9b00dc225 
+Dec 01 16:20:32.361 HYPERVISOR: exec_cmd: vm get_status AmazL3SW2 
+Dec 01 16:24:16.253 HYPERVISOR: exec_cmd: vm get_status AmazL3SW2 
+Dec 01 16:24:16.254 HYPERVISOR: exec_cmd: vm extract_config AmazL3SW2 
+Dec 01 16:24:58.820 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:40:27.493 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:43:10.266 HYPERVISOR: exec_cmd: nio create_udp udp-bd1b81c9-ccbe-425f-a3bb-fa9210dfb99d 20046 127.0.0.1 20047 
+Dec 01 16:43:10.269 HYPERVISOR: exec_cmd: vm slot_add_nio_binding AmazL3SW2 0 1 udp-bd1b81c9-ccbe-425f-a3bb-fa9210dfb99d 
+Dec 01 16:43:10.270 HYPERVISOR: exec_cmd: vm get_status AmazL3SW2 
+Dec 01 16:43:18.588 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:43:27.223 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:43:38.803 HYPERVISOR: exec_cmd: nio create_udp udp-085a795d-46f7-4461-9243-31c56615ef93 20050 127.0.0.1 20051 
+Dec 01 16:43:38.805 HYPERVISOR: exec_cmd: vm slot_add_nio_binding AmazL3SW2 1 0 udp-085a795d-46f7-4461-9243-31c56615ef93 
+Dec 01 16:43:38.806 HYPERVISOR: exec_cmd: vm get_status AmazL3SW2 
+Dec 01 16:47:26.907 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:47:27.632 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:47:30.005 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:49:16.180 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:49:36.052 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:49:36.864 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:49:39.543 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:51:59.967 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:52:00.890 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:52:04.009 HYPERVISOR: exec_cmd: vm set_ios AmazL3SW2 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 

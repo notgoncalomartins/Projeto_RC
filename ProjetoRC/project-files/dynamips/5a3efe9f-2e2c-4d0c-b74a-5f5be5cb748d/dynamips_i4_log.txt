@@ -1,0 +1,51 @@
+Dec 01 16:20:30.379 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Dec 01 16:20:30.380 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 61902.
+Dec 01 16:20:30.381 HYPERVISOR: exec_cmd: hypervisor version 
+Dec 01 16:20:30.381 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips 
+Dec 01 16:20:30.381 GENERAL: working_dir=C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips
+Dec 01 16:20:30.382 HYPERVISOR: exec_cmd: ethsw create NewNetSW 
+Dec 01 16:20:32.933 HYPERVISOR: exec_cmd: nio create_udp udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 20013 127.0.0.1 20012 
+Dec 01 16:20:32.935 HYPERVISOR: exec_cmd: ethsw add_nio NewNetSW udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 
+Dec 01 16:20:32.945 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 1 
+Dec 01 16:20:33.530 HYPERVISOR: exec_cmd: nio create_udp udp-7c47abb6-7eee-48b8-85e7-718786fec693 20036 127.0.0.1 20037 
+Dec 01 16:20:33.531 HYPERVISOR: exec_cmd: ethsw add_nio NewNetSW udp-7c47abb6-7eee-48b8-85e7-718786fec693 
+Dec 01 16:20:33.535 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-7c47abb6-7eee-48b8-85e7-718786fec693 1 
+Dec 01 16:20:33.583 HYPERVISOR: exec_cmd: nio create_udp udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 20038 127.0.0.1 20039 
+Dec 01 16:20:33.583 HYPERVISOR: exec_cmd: ethsw add_nio NewNetSW udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 
+Dec 01 16:20:33.597 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 1 
+Dec 01 16:24:42.286 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 1 
+Dec 01 16:24:42.286 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-7c47abb6-7eee-48b8-85e7-718786fec693 1 
+Dec 01 16:24:42.287 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 1 
+Dec 01 16:42:04.359 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 1 
+Dec 01 16:42:04.360 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-7c47abb6-7eee-48b8-85e7-718786fec693 1 
+Dec 01 16:42:04.360 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 1 
+Dec 01 16:47:26.905 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 1 
+Dec 01 16:47:26.909 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-7c47abb6-7eee-48b8-85e7-718786fec693 1 
+Dec 01 16:47:26.917 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 1 
+Dec 01 16:47:27.535 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 1 
+Dec 01 16:47:27.597 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-7c47abb6-7eee-48b8-85e7-718786fec693 1 
+Dec 01 16:47:27.633 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 1 
+Dec 01 16:47:29.035 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 1 
+Dec 01 16:47:29.043 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-7c47abb6-7eee-48b8-85e7-718786fec693 1 
+Dec 01 16:47:29.104 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 1 
+Dec 01 16:49:16.182 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 1 
+Dec 01 16:49:16.192 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-7c47abb6-7eee-48b8-85e7-718786fec693 1 
+Dec 01 16:49:16.228 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 1 
+Dec 01 16:49:36.050 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 1 
+Dec 01 16:49:36.054 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-7c47abb6-7eee-48b8-85e7-718786fec693 1 
+Dec 01 16:49:36.101 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 1 
+Dec 01 16:49:36.859 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 1 
+Dec 01 16:49:36.865 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-7c47abb6-7eee-48b8-85e7-718786fec693 1 
+Dec 01 16:49:36.873 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 1 
+Dec 01 16:49:38.472 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 1 
+Dec 01 16:49:38.476 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-7c47abb6-7eee-48b8-85e7-718786fec693 1 
+Dec 01 16:49:38.507 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 1 
+Dec 01 16:51:59.965 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 1 
+Dec 01 16:51:59.968 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-7c47abb6-7eee-48b8-85e7-718786fec693 1 
+Dec 01 16:51:59.974 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 1 
+Dec 01 16:52:00.887 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 1 
+Dec 01 16:52:00.922 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-7c47abb6-7eee-48b8-85e7-718786fec693 1 
+Dec 01 16:52:00.964 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 1 
+Dec 01 16:52:02.819 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-67dd0d0c-f7dc-4e66-b241-d8bdeba4370a 1 
+Dec 01 16:52:02.882 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-7c47abb6-7eee-48b8-85e7-718786fec693 1 
+Dec 01 16:52:02.885 HYPERVISOR: exec_cmd: ethsw set_access_port NewNetSW udp-fc2c7b83-4aa0-4c4a-8958-ddf1a4b3fee7 1 

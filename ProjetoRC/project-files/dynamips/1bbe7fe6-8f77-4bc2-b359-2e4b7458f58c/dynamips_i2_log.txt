@@ -1,0 +1,44 @@
+Dec 01 16:20:29.217 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Dec 01 16:20:29.217 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 61896.
+Dec 01 16:20:29.725 HYPERVISOR: exec_cmd: hypervisor version 
+Dec 01 16:20:29.726 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips 
+Dec 01 16:20:29.726 GENERAL: working_dir=C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips
+Dec 01 16:20:29.726 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips\1bbe7fe6-8f77-4bc2-b359-2e4b7458f58c 
+Dec 01 16:20:29.727 GENERAL: working_dir=C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips\1bbe7fe6-8f77-4bc2-b359-2e4b7458f58c
+Dec 01 16:20:29.727 HYPERVISOR: exec_cmd: vm create Gr8 2 c3725 
+Dec 01 16:20:29.728 VM: VM Gr8 created.
+Dec 01 16:20:29.730 HYPERVISOR: exec_cmd: vm set_con_tcp_port Gr8 5001 
+Dec 01 16:20:29.730 HYPERVISOR: exec_cmd: c3725 get_mac_addr Gr8 
+Dec 01 16:20:29.730 HYPERVISOR: exec_cmd: vm set_disk0 Gr8 0 
+Dec 01 16:20:29.731 HYPERVISOR: exec_cmd: vm set_exec_area Gr8 64 
+Dec 01 16:20:29.732 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:20:29.732 HYPERVISOR: exec_cmd: c3725 set_mac_addr Gr8 c202.639c.0000 
+Dec 01 16:20:29.732 HYPERVISOR: exec_cmd: vm set_nvram Gr8 256 
+Dec 01 16:20:29.733 HYPERVISOR: exec_cmd: vm set_ram Gr8 256 
+Dec 01 16:20:29.733 HYPERVISOR: exec_cmd: vm get_status Gr8 
+Dec 01 16:20:29.733 HYPERVISOR: exec_cmd: vm slot_add_binding Gr8 1 0 NM-1FE-TX 
+Dec 01 16:20:29.734 HYPERVISOR: exec_cmd: vm get_status Gr8 
+Dec 01 16:20:29.734 HYPERVISOR: exec_cmd: vm slot_add_binding Gr8 2 0 NM-1FE-TX 
+Dec 01 16:20:33.021 HYPERVISOR: exec_cmd: nio create_udp udp-c44341ee-78a6-448c-8a17-9dec1200b0a8 20026 127.0.0.1 20027 
+Dec 01 16:20:33.261 HYPERVISOR: exec_cmd: vm slot_add_nio_binding Gr8 0 0 udp-c44341ee-78a6-448c-8a17-9dec1200b0a8 
+Dec 01 16:20:33.263 HYPERVISOR: exec_cmd: vm get_status Gr8 
+Dec 01 16:20:33.296 HYPERVISOR: exec_cmd: nio create_udp udp-5bac2849-54cb-4d61-aba7-5cf59c8435ac 20030 127.0.0.1 20031 
+Dec 01 16:20:33.300 HYPERVISOR: exec_cmd: vm slot_add_nio_binding Gr8 0 1 udp-5bac2849-54cb-4d61-aba7-5cf59c8435ac 
+Dec 01 16:20:33.301 HYPERVISOR: exec_cmd: vm get_status Gr8 
+Dec 01 16:24:16.246 HYPERVISOR: exec_cmd: vm get_status Gr8 
+Dec 01 16:24:16.246 HYPERVISOR: exec_cmd: vm extract_config Gr8 
+Dec 01 16:24:35.596 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:24:57.278 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:42:17.307 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:47:27.066 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:47:28.259 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:47:29.272 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:49:16.275 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:49:36.240 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:49:37.541 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:49:38.736 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:52:00.222 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:52:01.814 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:52:03.106 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:52:14.233 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:52:17.938 HYPERVISOR: exec_cmd: vm set_ios Gr8 C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 

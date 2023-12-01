@@ -1,0 +1,54 @@
+Dec 01 16:20:28.826 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Dec 01 16:20:28.827 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 61893.
+Dec 01 16:20:29.135 HYPERVISOR: exec_cmd: hypervisor version 
+Dec 01 16:20:29.137 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips 
+Dec 01 16:20:29.149 GENERAL: working_dir=C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips
+Dec 01 16:20:29.150 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips\47ae51e1-d9da-41f7-9d39-ac34454e008b 
+Dec 01 16:20:29.151 GENERAL: working_dir=C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips\47ae51e1-d9da-41f7-9d39-ac34454e008b
+Dec 01 16:20:29.152 HYPERVISOR: exec_cmd: vm create NewNet 1 c7200 
+Dec 01 16:20:29.155 VM: VM NewNet created.
+Dec 01 16:20:29.156 HYPERVISOR: exec_cmd: vm set_con_tcp_port NewNet 5000 
+Dec 01 16:20:29.156 HYPERVISOR: exec_cmd: c7200 get_mac_addr NewNet 
+Dec 01 16:20:29.157 HYPERVISOR: exec_cmd: vm get_status NewNet 
+Dec 01 16:20:29.157 HYPERVISOR: exec_cmd: vm slot_add_binding NewNet 0 0 C7200-IO-FE 
+Dec 01 16:20:29.160 HYPERVISOR: exec_cmd: vm set_disk0 NewNet 0 
+Dec 01 16:20:29.160 HYPERVISOR: exec_cmd: vm set_exec_area NewNet 64 
+Dec 01 16:20:29.162 HYPERVISOR: exec_cmd: vm set_ios NewNet C:/Users/zemig/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 01 16:20:29.163 HYPERVISOR: exec_cmd: c7200 set_mac_addr NewNet ca01.15c8.0000 
+Dec 01 16:20:29.164 HYPERVISOR: exec_cmd: vm set_nvram NewNet 512 
+Dec 01 16:20:29.164 HYPERVISOR: exec_cmd: vm set_ram NewNet 512 
+Dec 01 16:20:29.165 HYPERVISOR: exec_cmd: vm get_status NewNet 
+Dec 01 16:20:29.165 HYPERVISOR: exec_cmd: vm slot_remove_binding NewNet 0 0 
+Dec 01 16:20:29.165 HYPERVISOR: exec_cmd: vm get_status NewNet 
+Dec 01 16:20:29.165 HYPERVISOR: exec_cmd: vm slot_add_binding NewNet 0 0 C7200-IO-GE-E 
+Dec 01 16:20:29.165 HYPERVISOR: exec_cmd: vm get_status NewNet 
+Dec 01 16:20:29.166 HYPERVISOR: exec_cmd: vm slot_add_binding NewNet 1 0 PA-2FE-TX 
+Dec 01 16:20:29.166 HYPERVISOR: exec_cmd: vm get_status NewNet 
+Dec 01 16:20:29.166 HYPERVISOR: exec_cmd: vm slot_add_binding NewNet 2 0 PA-2FE-TX 
+Dec 01 16:20:32.676 HYPERVISOR: exec_cmd: nio create_udp udp-21381d93-23bc-42d7-87f2-1752496e4567 20014 127.0.0.1 20015 
+Dec 01 16:20:32.920 HYPERVISOR: exec_cmd: vm slot_add_nio_binding NewNet 1 0 udp-21381d93-23bc-42d7-87f2-1752496e4567 
+Dec 01 16:20:32.922 HYPERVISOR: exec_cmd: vm get_status NewNet 
+Dec 01 16:20:32.978 HYPERVISOR: exec_cmd: nio create_udp udp-ec6ba1d6-7a3a-40f2-a3f1-1436635405aa 20018 127.0.0.1 20019 
+Dec 01 16:20:32.980 HYPERVISOR: exec_cmd: vm slot_add_nio_binding NewNet 1 1 udp-ec6ba1d6-7a3a-40f2-a3f1-1436635405aa 
+Dec 01 16:20:32.980 HYPERVISOR: exec_cmd: vm get_status NewNet 
+Dec 01 16:20:33.014 HYPERVISOR: exec_cmd: nio create_udp udp-5650dfcd-7d62-4816-aea9-07044d413f9d 20024 127.0.0.1 20025 
+Dec 01 16:20:33.016 HYPERVISOR: exec_cmd: vm slot_add_nio_binding NewNet 2 0 udp-5650dfcd-7d62-4816-aea9-07044d413f9d 
+Dec 01 16:20:33.016 HYPERVISOR: exec_cmd: vm get_status NewNet 
+Dec 01 16:24:16.246 HYPERVISOR: exec_cmd: vm get_status NewNet 
+Dec 01 16:24:16.247 HYPERVISOR: exec_cmd: vm extract_config NewNet 
+Dec 01 16:41:51.877 HYPERVISOR: exec_cmd: vm set_ios NewNet C:/Users/zemig/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 01 16:47:27.178 HYPERVISOR: exec_cmd: vm set_ios NewNet C:/Users/zemig/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 01 16:47:27.995 HYPERVISOR: exec_cmd: vm set_ios NewNet C:/Users/zemig/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 01 16:47:28.651 HYPERVISOR: exec_cmd: vm set_ios NewNet C:/Users/zemig/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 01 16:49:16.442 HYPERVISOR: exec_cmd: vm set_ios NewNet C:/Users/zemig/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 01 16:49:17.276 HYPERVISOR: exec_cmd: vm set_ios NewNet C:/Users/zemig/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 01 16:49:17.803 HYPERVISOR: exec_cmd: vm set_ios NewNet C:/Users/zemig/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 01 16:49:36.431 HYPERVISOR: exec_cmd: vm set_ios NewNet C:/Users/zemig/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 01 16:49:37.216 HYPERVISOR: exec_cmd: vm set_ios NewNet C:/Users/zemig/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 01 16:49:37.845 HYPERVISOR: exec_cmd: vm set_ios NewNet C:/Users/zemig/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 01 16:52:00.429 HYPERVISOR: exec_cmd: vm set_ios NewNet C:/Users/zemig/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 01 16:52:01.350 HYPERVISOR: exec_cmd: vm set_ios NewNet C:/Users/zemig/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 01 16:52:02.281 HYPERVISOR: exec_cmd: vm set_ios NewNet C:/Users/zemig/GNS3/images/IOS/c7200-adventerprisek9-mz.151-4.M2.image 
+Dec 01 16:54:59.166 HYPERVISOR: exec_cmd: nio create_udp udp-f8d6c5ca-02e0-4ef0-a91a-ee86ce8b8ca8 20090 127.0.0.1 20091 
+Dec 01 16:54:59.168 HYPERVISOR: exec_cmd: vm slot_add_nio_binding NewNet 2 1 udp-f8d6c5ca-02e0-4ef0-a91a-ee86ce8b8ca8 
+Dec 01 16:54:59.168 HYPERVISOR: exec_cmd: vm get_status NewNet 

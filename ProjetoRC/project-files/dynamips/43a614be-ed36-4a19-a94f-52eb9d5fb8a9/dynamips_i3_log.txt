@@ -1,0 +1,47 @@
+Dec 01 16:20:29.793 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Dec 01 16:20:29.793 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 61899.
+Dec 01 16:20:30.302 HYPERVISOR: exec_cmd: hypervisor version 
+Dec 01 16:20:30.304 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips 
+Dec 01 16:20:30.304 GENERAL: working_dir=C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips
+Dec 01 16:20:30.305 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips\43a614be-ed36-4a19-a94f-52eb9d5fb8a9 
+Dec 01 16:20:30.306 GENERAL: working_dir=C:\Users\zemig\GNS3\projects\Projeto_RC\ProjetoRC\project-files\dynamips\43a614be-ed36-4a19-a94f-52eb9d5fb8a9
+Dec 01 16:20:30.307 HYPERVISOR: exec_cmd: vm create Amazing 3 c3725 
+Dec 01 16:20:30.311 VM: VM Amazing created.
+Dec 01 16:20:30.312 HYPERVISOR: exec_cmd: vm set_con_tcp_port Amazing 5002 
+Dec 01 16:20:30.312 HYPERVISOR: exec_cmd: c3725 get_mac_addr Amazing 
+Dec 01 16:20:30.312 HYPERVISOR: exec_cmd: vm set_disk0 Amazing 0 
+Dec 01 16:20:30.313 HYPERVISOR: exec_cmd: vm set_exec_area Amazing 64 
+Dec 01 16:20:30.314 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:20:30.314 HYPERVISOR: exec_cmd: c3725 set_mac_addr Amazing c203.5cdc.0000 
+Dec 01 16:20:30.314 HYPERVISOR: exec_cmd: vm set_nvram Amazing 256 
+Dec 01 16:20:30.314 HYPERVISOR: exec_cmd: vm set_ram Amazing 256 
+Dec 01 16:20:30.315 HYPERVISOR: exec_cmd: vm get_status Amazing 
+Dec 01 16:20:30.315 HYPERVISOR: exec_cmd: vm slot_add_binding Amazing 1 0 NM-1FE-TX 
+Dec 01 16:20:30.315 HYPERVISOR: exec_cmd: vm get_status Amazing 
+Dec 01 16:20:30.315 HYPERVISOR: exec_cmd: vm slot_add_binding Amazing 2 0 NM-1FE-TX 
+Dec 01 16:20:31.792 HYPERVISOR: exec_cmd: nio create_udp udp-99baa644-5925-4a24-b712-855f8d598ef4 20002 127.0.0.1 20003 
+Dec 01 16:20:32.096 HYPERVISOR: exec_cmd: vm slot_add_nio_binding Amazing 0 1 udp-99baa644-5925-4a24-b712-855f8d598ef4 
+Dec 01 16:20:32.097 HYPERVISOR: exec_cmd: vm get_status Amazing 
+Dec 01 16:20:32.391 HYPERVISOR: exec_cmd: nio create_udp udp-b49062b2-73ad-4bd1-84d9-eacbe2b2924c 20008 127.0.0.1 20009 
+Dec 01 16:20:32.395 HYPERVISOR: exec_cmd: vm slot_add_nio_binding Amazing 1 0 udp-b49062b2-73ad-4bd1-84d9-eacbe2b2924c 
+Dec 01 16:20:32.395 HYPERVISOR: exec_cmd: vm get_status Amazing 
+Dec 01 16:20:32.984 HYPERVISOR: exec_cmd: nio create_udp udp-2887a641-3392-494b-925b-354774d42683 20020 127.0.0.1 20021 
+Dec 01 16:20:32.986 HYPERVISOR: exec_cmd: vm slot_add_nio_binding Amazing 0 0 udp-2887a641-3392-494b-925b-354774d42683 
+Dec 01 16:20:32.986 HYPERVISOR: exec_cmd: vm get_status Amazing 
+Dec 01 16:24:16.246 HYPERVISOR: exec_cmd: vm get_status Amazing 
+Dec 01 16:24:16.247 HYPERVISOR: exec_cmd: vm extract_config Amazing 
+Dec 01 16:24:27.105 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:24:53.905 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:41:42.527 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:47:27.276 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:47:27.667 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:47:29.033 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:49:16.642 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:49:17.001 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:49:18.307 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:49:36.545 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:49:36.869 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:49:38.403 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:52:00.511 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:52:00.922 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
+Dec 01 16:52:02.747 HYPERVISOR: exec_cmd: vm set_ios Amazing C:/Users/zemig/GNS3/images/IOS/c3725-advipservicesk9-mz.124-21.image 
