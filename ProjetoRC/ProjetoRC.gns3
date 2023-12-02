@@ -21,45 +21,45 @@
                 "drawing_id": "dc34c700-62cb-4dd6-9c3f-f8c662e4131c",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"229\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.6\n2002:8880:6922:11DD::2</text></svg>",
-                "x": 493,
-                "y": 397,
+                "svg": "<svg width=\"171\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.6\n2002:8880:6922:11DD::2</text></svg>",
+                "x": 474,
+                "y": 411,
                 "z": 2
             },
             {
                 "drawing_id": "10deef78-a895-4c2a-b29a-c622a9e2aeaf",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"229\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.5\n2002:8880:6922:11DD::1</text></svg>",
-                "x": 193,
-                "y": 386,
+                "svg": "<svg width=\"171\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.5\n2002:8880:6922:11DD::1</text></svg>",
+                "x": 224,
+                "y": 393,
                 "z": 2
             },
             {
                 "drawing_id": "a3893d80-859e-42a7-9b67-710b697a32b5",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"223\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.1\n2002:8880:6922:11EE::1</text></svg>",
-                "x": -153,
-                "y": 391,
+                "svg": "<svg width=\"167\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.1\n2002:8880:6922:11EE::1</text></svg>",
+                "x": -162,
+                "y": 397,
                 "z": 2
             },
             {
                 "drawing_id": "d6482341-7188-46fb-94cc-dea296117285",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"107\" height=\"35\"><line x1=\"0\" x2=\"-107\" y1=\"0\" y2=\"35\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": 129,
-                "y": 363,
+                "svg": "<svg width=\"156\" height=\"38\"><line x1=\"0\" x2=\"-156\" y1=\"0\" y2=\"38\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 106,
+                "y": 368,
                 "z": 1
             },
             {
                 "drawing_id": "df341d15-2ab1-4b34-b0df-1b680ab2143f",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"223\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.2\n2002:8880:6922:11EE::2</text></svg>",
-                "x": -480,
-                "y": 415,
+                "svg": "<svg width=\"167\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.2\n2002:8880:6922:11EE::2</text></svg>",
+                "x": -496,
+                "y": 427,
                 "z": 2
             },
             {
@@ -67,8 +67,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"80\" height=\"31\"><line x1=\"0\" x2=\"80\" y1=\"0\" y2=\"31\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": 187,
-                "y": 354,
+                "x": 194,
+                "y": 363,
                 "z": 1
             },
             {
@@ -76,8 +76,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"52\" height=\"52\"><line x1=\"0\" x2=\"-52\" y1=\"0\" y2=\"52\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": 591,
-                "y": 354,
+                "x": 582,
+                "y": 359,
                 "z": 1
             },
             {
@@ -85,9 +85,135 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"72\" height=\"56\"><line x1=\"0\" x2=\"72\" y1=\"0\" y2=\"56\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": -508,
-                "y": 361,
+                "x": -513,
+                "y": 374,
                 "z": 1
+            },
+            {
+                "drawing_id": "29d93424-4c8a-42ca-b48b-8e7d227b1ccb",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"241\" height=\"296\"><rect width=\"241\" height=\"296\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 405,
+                "y": -139,
+                "z": -1
+            },
+            {
+                "drawing_id": "a91b09f9-b83b-426a-b1fd-74294a9ecbaf",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"54\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN 3</text></svg>",
+                "x": 496,
+                "y": -165,
+                "z": 2
+            },
+            {
+                "drawing_id": "1fc627a5-3c40-43b8-9e5a-bfb39658be42",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"200\" height=\"296\"><rect width=\"200\" height=\"296\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 659,
+                "y": -140,
+                "z": -1
+            },
+            {
+                "drawing_id": "49a36acb-0589-409c-913e-e1b6ffac9d5e",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"50\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN2</text></svg>",
+                "x": 729,
+                "y": -169,
+                "z": 2
+            },
+            {
+                "drawing_id": "c540e84e-c865-4e37-ac90-29ce1d768ba8",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"276\" height=\"292\"><rect width=\"276\" height=\"292\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -105,
+                "y": -140,
+                "z": 0
+            },
+            {
+                "drawing_id": "ff56e0e5-bc2d-41ce-8415-f6375144472c",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"50\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN4</text></svg>",
+                "x": 1,
+                "y": -164,
+                "z": 1
+            },
+            {
+                "drawing_id": "02c193be-13eb-402f-aa4b-9c599759dcc3",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"200\" height=\"291\"><rect width=\"200\" height=\"291\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": 194,
+                "y": -140,
+                "z": 0
+            },
+            {
+                "drawing_id": "b6bfb1f9-c833-4c41-bdc2-60edcc89186f",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"50\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN5</text></svg>",
+                "x": 267,
+                "y": -167,
+                "z": 2
+            },
+            {
+                "drawing_id": "2851cf72-c56d-4e1c-8ada-4ce0ae266707",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"236\" height=\"209\"><rect width=\"236\" height=\"209\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -366,
+                "y": -180,
+                "z": -1
+            },
+            {
+                "drawing_id": "3919aedd-3c51-4d32-a9c1-86b4e38e36fe",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"283\" height=\"294\"><rect width=\"283\" height=\"294\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -687,
+                "y": -496,
+                "z": -1
+            },
+            {
+                "drawing_id": "aeb68dff-f8c7-47ff-b00e-838e1c847ea8",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"328\" height=\"231\"><rect width=\"328\" height=\"231\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -1042,
+                "y": -221,
+                "z": -1
+            },
+            {
+                "drawing_id": "510850f1-1295-47c4-b573-2fbb4fd4efe8",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"50\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN6</text></svg>",
+                "x": -909,
+                "y": -253,
+                "z": 2
+            },
+            {
+                "drawing_id": "1157303b-a705-421d-9619-f48de603d7f6",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"50\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN7</text></svg>",
+                "x": -569,
+                "y": -530,
+                "z": 2
+            },
+            {
+                "drawing_id": "2326526a-cd30-4e62-997c-4152534fa2c1",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"50\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN8</text></svg>",
+                "x": -269,
+                "y": -208,
+                "z": 2
             }
         ],
         "links": [
@@ -102,8 +228,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f0/1",
-                            "x": 28,
-                            "y": -43
+                            "x": 76,
+                            "y": -27
                         },
                         "node_id": "43a614be-ed36-4a19-a94f-52eb9d5fb8a9",
                         "port_number": 1
@@ -210,7 +336,7 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f0/0",
-                            "x": 70,
+                            "x": 71,
                             "y": 20
                         },
                         "node_id": "43a614be-ed36-4a19-a94f-52eb9d5fb8a9",
@@ -242,8 +368,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f0/0",
-                            "x": -45,
-                            "y": -4
+                            "x": -40,
+                            "y": -9
                         },
                         "node_id": "1bbe7fe6-8f77-4bc2-b359-2e4b7458f58c",
                         "port_number": 0
@@ -434,8 +560,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e0",
-                            "x": 46,
-                            "y": 48
+                            "x": 43,
+                            "y": 50
                         },
                         "node_id": "f520c4dd-7896-4084-a0a6-a30fe4e536ad",
                         "port_number": 0
@@ -466,8 +592,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e0",
-                            "x": 34,
-                            "y": 55
+                            "x": 51,
+                            "y": 58
                         },
                         "node_id": "dda163b3-cedd-4792-bf5f-06b23c3aea45",
                         "port_number": 0
@@ -486,8 +612,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e1",
-                            "x": 87,
-                            "y": 19
+                            "x": 81,
+                            "y": 15
                         },
                         "node_id": "f520c4dd-7896-4084-a0a6-a30fe4e536ad",
                         "port_number": 1
@@ -498,8 +624,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f1/0",
-                            "x": -52,
-                            "y": -3
+                            "x": -59,
+                            "y": 2
                         },
                         "node_id": "5a3efe9f-2e2c-4d0c-b74a-5f5be5cb748d",
                         "port_number": 0
@@ -550,8 +676,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e2",
-                            "x": 54,
-                            "y": -19
+                            "x": 68,
+                            "y": -20
                         },
                         "node_id": "dda163b3-cedd-4792-bf5f-06b23c3aea45",
                         "port_number": 2
@@ -582,8 +708,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e2",
-                            "x": 21,
-                            "y": -21
+                            "x": -22,
+                            "y": -18
                         },
                         "node_id": "f520c4dd-7896-4084-a0a6-a30fe4e536ad",
                         "port_number": 2
@@ -614,8 +740,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e3",
-                            "x": 72,
-                            "y": -27
+                            "x": 67,
+                            "y": -29
                         },
                         "node_id": "f520c4dd-7896-4084-a0a6-a30fe4e536ad",
                         "port_number": 3
@@ -647,7 +773,7 @@
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e3",
                             "x": -19,
-                            "y": -22
+                            "y": -29
                         },
                         "node_id": "dda163b3-cedd-4792-bf5f-06b23c3aea45",
                         "port_number": 3
@@ -742,8 +868,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e2",
-                            "x": -28,
-                            "y": 22
+                            "x": -18,
+                            "y": 34
                         },
                         "node_id": "8f7f0483-72a5-495c-92ee-e1b0a3da0f02",
                         "port_number": 2
@@ -774,8 +900,8 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "e3",
-                            "x": -18,
-                            "y": -24
+                            "x": -13,
+                            "y": -42
                         },
                         "node_id": "8f7f0483-72a5-495c-92ee-e1b0a3da0f02",
                         "port_number": 3
@@ -1065,8 +1191,8 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "NewNet",
-                    "x": -6,
-                    "y": 33
+                    "x": 1,
+                    "y": 44
                 },
                 "locked": false,
                 "name": "NewNet",
@@ -1260,22 +1386,25 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 5
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 4
                         },
                         {
                             "name": "Ethernet3",
@@ -1312,7 +1441,7 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": 119,
+                "x": 117,
                 "y": 187,
                 "z": 1
             },
@@ -1369,8 +1498,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "403ca74d-97a4-41b7-85d8-0364ce6d8165",
                 "width": 51,
-                "x": -443,
-                "y": 163,
+                "x": -458,
+                "y": 168,
                 "z": 1
             },
             {
@@ -1426,8 +1555,8 @@
                 "symbol": ":/symbols/multilayer_switch.svg",
                 "template_id": "403ca74d-97a4-41b7-85d8-0364ce6d8165",
                 "width": 51,
-                "x": -708,
-                "y": 161,
+                "x": -700,
+                "y": 166,
                 "z": 1
             },
             {
@@ -1454,16 +1583,18 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 2
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 2
                         },
                         {
                             "name": "Ethernet2",
@@ -1534,22 +1665,25 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 2
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 3
                         },
                         {
                             "name": "Ethernet3",
@@ -1587,7 +1721,7 @@
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
                 "x": 583,
-                "y": 190,
+                "y": 186,
                 "z": 1
             },
             {
@@ -1602,8 +1736,8 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "NewNetIT",
-                    "x": 83,
-                    "y": 6
+                    "x": 59,
+                    "y": 21
                 },
                 "locked": false,
                 "name": "NewNetIT",
@@ -1614,16 +1748,18 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 5
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 5
                         },
                         {
                             "name": "Ethernet2",
@@ -1694,22 +1830,25 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 4
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 4
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 4
                         },
                         {
                             "name": "Ethernet3",
@@ -1774,22 +1913,25 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 3
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 3
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 3
                         },
                         {
                             "name": "Ethernet3",
@@ -1854,34 +1996,39 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 6
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet3",
                             "port_number": 3,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 8
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet4",
                             "port_number": 4,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 7
                         },
                         {
                             "name": "Ethernet5",
@@ -1906,8 +2053,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -713,
-                "y": 24,
+                "x": -711,
+                "y": 47,
                 "z": 1
             },
             {
@@ -1934,34 +2081,39 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
-                            "type": "access",
+                            "type": "dot1q",
                             "vlan": 1
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 8
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet3",
                             "port_number": 3,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 6
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet4",
                             "port_number": 4,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 7
                         },
                         {
                             "name": "Ethernet5",
@@ -1986,9 +2138,9 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -455,
-                "y": 22,
-                "z": 1
+                "x": -468,
+                "y": 46,
+                "z": 0
             },
             {
                 "compute_id": "local",
@@ -2014,28 +2166,32 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 6
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 6
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 6
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet3",
                             "port_number": 3,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 6
                         },
                         {
                             "name": "Ethernet4",
@@ -2066,8 +2222,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -798,
-                "y": -100,
+                "x": -840,
+                "y": -104,
                 "z": 1
             },
             {
@@ -2094,22 +2250,25 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 8
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 8
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 8
                         },
                         {
                             "name": "Ethernet3",
@@ -2146,9 +2305,9 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -324,
-                "y": -110,
-                "z": 1
+                "x": -312,
+                "y": -113,
+                "z": 0
             },
             {
                 "compute_id": "local",
@@ -2175,8 +2334,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -187,
-                "y": -39,
+                "x": -214,
+                "y": -40,
                 "z": 1
             },
             {
@@ -2203,22 +2362,25 @@
                 "properties": {
                     "ports_mapping": [
                         {
+                            "ethertype": "",
                             "name": "Ethernet0",
                             "port_number": 0,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 7
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet1",
                             "port_number": 1,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 7
                         },
                         {
+                            "ethertype": "",
                             "name": "Ethernet2",
                             "port_number": 2,
                             "type": "access",
-                            "vlan": 1
+                            "vlan": 7
                         },
                         {
                             "name": "Ethernet3",
@@ -2255,8 +2417,8 @@
                 "symbol": ":/symbols/ethernet_switch.svg",
                 "template_id": "1966b864-93e7-32d5-965f-001384eec461",
                 "width": 72,
-                "x": -570,
-                "y": -274,
+                "x": -571,
+                "y": -286,
                 "z": 1
             },
             {
@@ -2284,8 +2446,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": -982,
-                "y": -83,
+                "x": -986,
+                "y": -72,
                 "z": 1
             },
             {
@@ -2371,8 +2533,8 @@
                 "symbol": ":/symbols/vpcs_guest.svg",
                 "template_id": "19021f99-e36f-394d-b4a1-8aaa902ab9cc",
                 "width": 65,
-                "x": 268,
-                "y": -78,
+                "x": 269,
+                "y": -75,
                 "z": 1
             },
             {
@@ -2544,13 +2706,13 @@
                 "properties": {
                     "interfaces": [
                         {
-                            "name": "Wi-Fi",
-                            "special": true,
+                            "name": "Ethernet",
+                            "special": false,
                             "type": "ethernet"
                         },
                         {
-                            "name": "Ethernet",
-                            "special": false,
+                            "name": "Wi-Fi",
+                            "special": true,
                             "type": "ethernet"
                         },
                         {
