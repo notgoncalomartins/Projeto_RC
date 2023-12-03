@@ -1083,38 +1083,6 @@
             },
             {
                 "filters": {},
-                "link_id": "ee1b7ccc-8c72-44df-b36f-d8ea27d3a726",
-                "link_style": {},
-                "nodes": [
-                    {
-                        "adapter_number": 0,
-                        "label": {
-                            "rotation": 0,
-                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "e2",
-                            "x": 59,
-                            "y": -26
-                        },
-                        "node_id": "9a072338-61e0-4a1b-bc44-2e12ccbe9537",
-                        "port_number": 2
-                    },
-                    {
-                        "adapter_number": 0,
-                        "label": {
-                            "rotation": 0,
-                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "e0",
-                            "x": 18,
-                            "y": 63
-                        },
-                        "node_id": "9e7a2115-b059-45bb-a11d-17651d91d39c",
-                        "port_number": 0
-                    }
-                ],
-                "suspend": false
-            },
-            {
-                "filters": {},
                 "link_id": "f80df852-290a-48a1-9a5f-726b577daf77",
                 "link_style": {},
                 "nodes": [
@@ -1172,6 +1140,38 @@
                             "y": 55
                         },
                         "node_id": "dda163b3-cedd-4792-bf5f-06b23c3aea45",
+                        "port_number": 0
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "1e29aad7-5b3c-47bb-bf57-bd5c260e0e47",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e2",
+                            "x": 54,
+                            "y": -19
+                        },
+                        "node_id": "9a072338-61e0-4a1b-bc44-2e12ccbe9537",
+                        "port_number": 2
+                    },
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e0",
+                            "x": 13,
+                            "y": 64
+                        },
+                        "node_id": "9e7a2115-b059-45bb-a11d-17651d91d39c",
                         "port_number": 0
                     }
                 ],
@@ -2706,13 +2706,13 @@
                 "properties": {
                     "interfaces": [
                         {
-                            "name": "Ethernet",
-                            "special": false,
+                            "name": "Wi-Fi",
+                            "special": true,
                             "type": "ethernet"
                         },
                         {
-                            "name": "Wi-Fi",
-                            "special": true,
+                            "name": "Ethernet",
+                            "special": false,
                             "type": "ethernet"
                         },
                         {
