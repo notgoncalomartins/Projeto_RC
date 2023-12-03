@@ -21,7 +21,7 @@
                 "drawing_id": "dc34c700-62cb-4dd6-9c3f-f8c662e4131c",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"171\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.6\n2002:8880:6922:11DD::2</text></svg>",
+                "svg": "<svg width=\"229\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.6\n2002:8880:6922:11DD::2</text></svg>",
                 "x": 474,
                 "y": 411,
                 "z": 2
@@ -30,7 +30,7 @@
                 "drawing_id": "10deef78-a895-4c2a-b29a-c622a9e2aeaf",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"171\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.5\n2002:8880:6922:11DD::1</text></svg>",
+                "svg": "<svg width=\"229\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.5\n2002:8880:6922:11DD::1</text></svg>",
                 "x": 224,
                 "y": 393,
                 "z": 2
@@ -39,7 +39,7 @@
                 "drawing_id": "a3893d80-859e-42a7-9b67-710b697a32b5",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"167\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.1\n2002:8880:6922:11EE::1</text></svg>",
+                "svg": "<svg width=\"223\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.1\n2002:8880:6922:11EE::1</text></svg>",
                 "x": -162,
                 "y": 397,
                 "z": 2
@@ -48,7 +48,7 @@
                 "drawing_id": "d6482341-7188-46fb-94cc-dea296117285",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"156\" height=\"38\"><line x1=\"0\" x2=\"-156\" y1=\"0\" y2=\"38\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "svg": "<svg width=\"136\" height=\"41\"><line x1=\"0\" x2=\"-136\" y1=\"0\" y2=\"41\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
                 "x": 106,
                 "y": 368,
                 "z": 1
@@ -57,7 +57,7 @@
                 "drawing_id": "df341d15-2ab1-4b34-b0df-1b680ab2143f",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"167\" height=\"40\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.2\n2002:8880:6922:11EE::2</text></svg>",
+                "svg": "<svg width=\"223\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">201.129.18.2\n2002:8880:6922:11EE::2</text></svg>",
                 "x": -496,
                 "y": 427,
                 "z": 2
@@ -102,7 +102,7 @@
                 "drawing_id": "a91b09f9-b83b-426a-b1fd-74294a9ecbaf",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"54\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN 3</text></svg>",
+                "svg": "<svg width=\"70\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN 3</text></svg>",
                 "x": 496,
                 "y": -165,
                 "z": 2
@@ -120,7 +120,7 @@
                 "drawing_id": "49a36acb-0589-409c-913e-e1b6ffac9d5e",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"50\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN2</text></svg>",
+                "svg": "<svg width=\"65\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN2</text></svg>",
                 "x": 729,
                 "y": -169,
                 "z": 2
@@ -138,7 +138,7 @@
                 "drawing_id": "ff56e0e5-bc2d-41ce-8415-f6375144472c",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"50\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN4</text></svg>",
+                "svg": "<svg width=\"65\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN4</text></svg>",
                 "x": 1,
                 "y": -164,
                 "z": 1
@@ -156,7 +156,7 @@
                 "drawing_id": "b6bfb1f9-c833-4c41-bdc2-60edcc89186f",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"50\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN5</text></svg>",
+                "svg": "<svg width=\"65\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN5</text></svg>",
                 "x": 267,
                 "y": -167,
                 "z": 2
@@ -192,7 +192,7 @@
                 "drawing_id": "510850f1-1295-47c4-b573-2fbb4fd4efe8",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"50\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN6</text></svg>",
+                "svg": "<svg width=\"65\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN6</text></svg>",
                 "x": -909,
                 "y": -253,
                 "z": 2
@@ -201,7 +201,7 @@
                 "drawing_id": "1157303b-a705-421d-9619-f48de603d7f6",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"50\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN7</text></svg>",
+                "svg": "<svg width=\"65\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN7</text></svg>",
                 "x": -569,
                 "y": -530,
                 "z": 2
@@ -210,7 +210,7 @@
                 "drawing_id": "2326526a-cd30-4e62-997c-4152534fa2c1",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"50\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN8</text></svg>",
+                "svg": "<svg width=\"65\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN8</text></svg>",
                 "x": -269,
                 "y": -208,
                 "z": 2
@@ -368,7 +368,7 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "f0/0",
-                            "x": -40,
+                            "x": -48,
                             "y": -9
                         },
                         "node_id": "1bbe7fe6-8f77-4bc2-b359-2e4b7458f58c",
@@ -2706,13 +2706,13 @@
                 "properties": {
                     "interfaces": [
                         {
-                            "name": "Ethernet",
-                            "special": false,
+                            "name": "Wi-Fi",
+                            "special": true,
                             "type": "ethernet"
                         },
                         {
-                            "name": "Wi-Fi",
-                            "special": true,
+                            "name": "Ethernet",
+                            "special": false,
                             "type": "ethernet"
                         },
                         {
